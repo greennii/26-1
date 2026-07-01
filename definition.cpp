@@ -13,7 +13,7 @@ namespace JeongYoonha2449101
             case 8: grade = 'B'; break;
             case 7: grade = 'C'; break;
             case 6: grade = 'D'; break;
-         
+            default: grade = 'F'; break;
 
 
 
